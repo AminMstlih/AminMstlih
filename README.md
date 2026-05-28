@@ -9,6 +9,8 @@
 
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AminMstlih&show_icons=true&theme=radical)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AminMstlih&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=AminMstlih&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AminMstlih&layout=compact&theme=radical&cache_seconds=1800)
