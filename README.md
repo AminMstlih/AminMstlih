@@ -1,8 +1,9 @@
 ## Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AminMstlih&show_icons=true&theme=radical)
 
 ### 📊 GitHub Stats
-![AminMstlih's GitHub stats](https://github-readme-stats.vercel.app/api?username=AminMstlih&show_icons=true&count_private=true&theme=radical)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AminMstlih&show_icons=true&theme=radical&cache_seconds=1800)
 
-![AminMstlih's GitHub stats](https://github-readme-stats.lib.rs/api?username=AminMstlih&show_icons=true&count_private=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AminMstlih&layout=compact&theme=radical&cache_seconds=1800)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AminMstlih&theme=radical)
